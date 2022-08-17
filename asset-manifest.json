@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cnCalculator/static/css/main.80241275.css",
+    "main.js": "/cnCalculator/static/js/main.028131d0.js",
+    "static/js/787.a174f9e5.chunk.js": "/cnCalculator/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/cnCalculator/index.html",
+    "main.80241275.css.map": "/cnCalculator/static/css/main.80241275.css.map",
+    "main.028131d0.js.map": "/cnCalculator/static/js/main.028131d0.js.map",
+    "787.a174f9e5.chunk.js.map": "/cnCalculator/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80241275.css",
+    "static/js/main.028131d0.js"
+  ]
+}
